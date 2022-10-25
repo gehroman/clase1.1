@@ -1,6 +1,6 @@
 ## sesion 1-2 R -- 24/10/2022
 
-## 1. C{alculos básicos
+## 1. Cálculos básicos
 
 ###1.1 Suma
 1+1
