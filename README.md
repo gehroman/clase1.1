@@ -47,3 +47,27 @@ base_86[sapply(base_86, is.numeric)] <- lapply(base_86[sapply(base_86, is.numeri
 
 ### Variable Inicial: sexo
 table(base_86$sexo)
+
+### Variable 2: Confianza Fuerzas Armadas
+table(base_86$confianza_6_c)
+
+### Variable 3: Confianza Carabineros
+table(base_86$confianza_6_h)
+
+### Variable 4: Confianza PDI
+table(base_86$confianza_6_r)
+
+### Variable 5: 2da vuelta elección presidencial
+table(base_86$elec_pres_144_a)
+
+### Variable 6: Escolaridad nivel 1
+table(base_86$esc_nivel_1)
+
+### Variable 7:info Trabajo remunerado
+table(base_86$info_enc_35)
+
+### Variable 8: actividad
+table(base_86$info_enc_62)
+
+### Variable 8: actividad
+table(base_86$info_enc_62)
